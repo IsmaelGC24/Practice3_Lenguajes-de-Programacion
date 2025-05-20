@@ -1,6 +1,6 @@
 Solution for Programming Languages ​​Practice 3. Created by: Ismael García Ceballos and Kevin Eduardo Hernández Durango.
 
-Video link: 
+Video link: https://youtu.be/C-VNZLMsjMA
 
 # Chess Game Tree - Readme
 
